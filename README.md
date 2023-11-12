@@ -1,7 +1,7 @@
 # The Alignment Handbook
 
 Robust recipes to align language models with human and AI preferences.
-
+Zephyr模型训练
 ## What is this?
 
 Just one year ago, chatbots were out of fashion and most people hadn't heard about techniques like Reinforcement Learning from Human Feedback (RLHF) to align language models with human preferences. Then, OpenAI broke the internet with ChatGPT and Meta followed suit by releasing the Llama series of language models which enabled the ML community to build their very own capable chatbots. This has led to a rich ecosystem of datasets and models that have mostly focused on teaching language models to follow instructions through supervised fine-tuning (SFT).
